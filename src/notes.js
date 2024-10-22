@@ -23,7 +23,6 @@ export const findNote = async (filter) => {
 };
 
 export const removeNote = async (id) => {
-  console.log("id inside removeNote", id);
   const notes = await getAllNotes();
   const match = notes.find((note) => note.id === id);
 

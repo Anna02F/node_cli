@@ -9,6 +9,7 @@ import {
 } from "./notes.js";
 newNote;
 
+// util fn to log notes in node
 const listNotes = (notes) => {
   notes.forEach(({ id, tags, content }) => {
     console.log("id: ", id);
