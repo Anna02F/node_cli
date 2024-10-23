@@ -7,7 +7,7 @@ import {
   removeNote,
   removeAllNotes,
 } from "./notes.js";
-newNote;
+import { start } from "./server.js";
 
 // util fn to log notes in node
 const listNotes = (notes) => {
@@ -91,7 +91,10 @@ yargs(hideBin(process.argv))
         type: "number",
       });
     },
-    async (argv) => {}
+    async (argv) => {
+      const notes = await getAllNotes();
+      start(notes, argv.port);
+    }
   )
   .command(
     "clean",

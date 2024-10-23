@@ -1,3 +1,37 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "tags": [
+        "Healthy life"
+      ],
+      "id": 1729653914604,
+      "content": "Do morning meditation"
+    },
+    {
+      "tags": [
+        "Healthy life"
+      ],
+      "id": 1729654041850,
+      "content": "Walk for at least 20-30 minutes daily"
+    },
+    {
+      "tags": [],
+      "id": 1729654120534,
+      "content": "Have a a balanced breakfast and drink coffee"
+    },
+    {
+      "tags": [
+        "Home"
+      ],
+      "id": 1729720397209,
+      "content": "Do laundry"
+    },
+    {
+      "tags": [
+        "Workout"
+      ],
+      "id": 1729720574831,
+      "content": "do 5 min morning stretch"
+    }
+  ]
 }
