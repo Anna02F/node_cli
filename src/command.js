@@ -87,7 +87,7 @@ yargs(hideBin(process.argv))
     (yargs) => {
       return yargs.positional("port", {
         describe: "port to bind on",
-        default: 5000,
+        default: 3000,
         type: "number",
       });
     },
