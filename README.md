@@ -2,7 +2,9 @@
 
 A CLI-based note-taking app for managing notes, alongside an HTTP server to handle requests and serve a basic UI, built using Node.js.
 
-This project was developed during my Node.js course on Frontend Masters, where I gained hands-on experience with Node.js core modules to build a practical, server-side solution. The project focused on developing a CLI and HTTP server from scratch.
+Project Background
+
+> This project was developed during my Node.js course on Frontend Masters, providing hands-on experience with Node.js core modules in building a practical, server-side solution. 
 
 Tools and technologies used:
 
