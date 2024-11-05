@@ -51,3 +51,8 @@ note web
 ```
 note web 4000
 ```
+
+### Demo
+
+![notes_cli](https://github.com/user-attachments/assets/4a46627c-7af5-45a1-9e2a-20ca516170a1)
+
